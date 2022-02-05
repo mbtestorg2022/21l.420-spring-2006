@@ -43,10 +43,39 @@ Grading
 
 In accordance with the seriousness of what we're about, the ratio--allowing for flexibility in the interests of justice--will be the following:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| In-class Work | 60% |
-| Quizzes, Essays, other work | 40% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+In-class Work
+{{< tdclose >}}
+{{< tdopen >}}
+60%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quizzes, Essays, other work
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Policy on Plagiarism
 --------------------
@@ -56,32 +85,265 @@ Plagiarism -- the use of another's intellectual work without acknowledgement -- 
 {{< anchor "calendar" >}}{{< /anchor >}}Calendar
 ------------------------------------------------
 
-| Lec # | Topics |
-| --- | --- |
-| 1 | Introductions, explanations, mutual question and answer  {{< br >}}  {{< br >}}Begin Chaucer |
-| 2 | Medieval Literature: Middle English, secular and profane |
-| 3 | More irony of character and more social comedy of manners: This time infused with gender |
-| 4 | The Bayeaux Tapestry |
-| 5 | Conclude Chaucer: Textual authority and the "experience" of the Wife of Bath |
-| 6 | Humanism, Wit, and the English Renaissance |
-| 7 | Shakespeare, _Romeo and Juliet  {{< br >}}_  {{< br >}}1 day after Lec #7: [American Repertory Theatre](http://www.americanrepertorytheater.org/) production of _Romeo and Juliet_ |
-| 8 | The Augustan Age: Neoclassicism, Satire, Scatology |
-| 9 | Johnathan Swift, _Gulliver's Travels_ |
-| 10 | Sense, Sensibility, Landscape |
-| 11 | Romanticism, Revolution, Aesthetics |
-| 12 | Jane Austen, _Pride and Prejudice_ |
-| 13 | Jane Austen, _Pride and Prejudice_ and Poems by John Clare and Christopher Smart |
-| 14 | Lewis Carroll, _Alice in Wonderland_ |
-| 15 | Lewis Carroll, _Alice in Wonderland_ (cont.) |
-| 16 | The Age of Reform, Restraint, Parody |
-| 17 | Arthur Conan Doyle: Sherlock Holmes stories |
-| 18 | Film: Oscar Wilde, _The Importance of Being Earnest_ |
-| 19 | Henry James, _Daisy Miller_ |
-| 20 | Henry James, _Daisy Miller_ (cont.) |
-| 21 | Post-Empire and the Fragmentation of History |
-| 22 | Samuel Beckett, _Waiting for Godot_ |
-| 23 | Harold Pinter, _The Homecoming_ |
-| 24 | Questions |
-| 25 | Final Exercise Questions |
-| 26 | Assignment: Responses due |
-| 27 | Final Evaluations, Poems, Monty Python
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Lec #
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introductions, explanations, mutual question and answer  
+  
+Begin Chaucer
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Medieval Literature: Middle English, secular and profane
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+More irony of character and more social comedy of manners: This time infused with gender
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+The Bayeaux Tapestry
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Conclude Chaucer: Textual authority and the "experience" of the Wife of Bath
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Humanism, Wit, and the English Renaissance
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Shakespeare, _Romeo and Juliet  
+_  
+1 day after Lec #7: [American Repertory Theatre](http://www.americanrepertorytheater.org/) production of _Romeo and Juliet_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+The Augustan Age: Neoclassicism, Satire, Scatology
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Johnathan Swift, _Gulliver's Travels_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Sense, Sensibility, Landscape
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Romanticism, Revolution, Aesthetics
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Jane Austen, _Pride and Prejudice_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Jane Austen, _Pride and Prejudice_ and Poems by John Clare and Christopher Smart
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Lewis Carroll, _Alice in Wonderland_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Lewis Carroll, _Alice in Wonderland_ (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+The Age of Reform, Restraint, Parody
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Arthur Conan Doyle: Sherlock Holmes stories
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Film: Oscar Wilde, _The Importance of Being Earnest_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Henry James, _Daisy Miller_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Henry James, _Daisy Miller_ (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Post-Empire and the Fragmentation of History
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Samuel Beckett, _Waiting for Godot_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Harold Pinter, _The Homecoming_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Questions
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Final Exercise Questions
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment: Responses due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+Final Evaluations, Poems, Monty Python
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
